@@ -1,0 +1,35 @@
+Venusaur:
+      weight: 100kg
+    stddev_w: 12.5
+      height: 2m
+    stddev_h: 0.25
+
+Charizard:
+      weight: 90.5kg
+    stddev_w: 11.3125
+      height: 1.7m
+    stddev_h: 0.2125
+
+Blastoise:
+      weight: 85.5kg
+    stddev_w: 10.6875
+      height: 1.6m
+    stddev_h: 0.2
+
+Gengar:
+      weight: 40.5kg
+    stddev_w: 5.0625
+      height: 1.5m
+    stddev_h: 0.1875
+
+Mew:
+      weight: 4kg
+    stddev_w: 0.5
+      height: 0.4m
+    stddev_h: 0.05
+
+Gyarados:
+      weight: 235kg
+    stddev_w: 29.375
+      height: 6.5m
+    stddev_h: 0.8125
